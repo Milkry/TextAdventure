@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/GameObject.cpp
+string
+-
+GameObject.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/GameObject.h
+Room.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/Room.h
+
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/GameObject.h
+string
+-
+
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/Room.cpp
+iostream
+-
+Room.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/Room.h
+wordwrap.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/wordwrap.h
+State.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/State.h
+
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/Room.h
+list
+-
+vector
+-
+GameObject.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/GameObject.h
+
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/State.cpp
+iostream
+-
+fstream
+-
+State.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/State.h
+
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/State.h
+vector
+-
+Room.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/Room.h
+strings.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/strings.h
+wordwrap.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/wordwrap.h
+
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/main.cpp
+map
+-
+iostream
+-
+iterator
+-
+memory
+-
+Room.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/Room.h
+wordwrap.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/wordwrap.h
+State.h
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/State.h
+
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/strings.h
+string
+-
+
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/wordwrap.h
+string
+-
+

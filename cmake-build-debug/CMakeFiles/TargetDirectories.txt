@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Panos/Desktop/University/Year 2/Semester 1/Module Exercises & Other/Software Development with C and C++/Coursework/cmake-build-debug/CMakeFiles/textadv.dir
